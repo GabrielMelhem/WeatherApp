@@ -1,6 +1,6 @@
 import { Weather } from "./Weather";
 import { Form } from "./Form";
-import "./styles.css";
+import "./App.css";
 import React, { useState } from "react";
 
 //
